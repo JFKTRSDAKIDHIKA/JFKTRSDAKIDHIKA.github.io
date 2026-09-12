@@ -24,7 +24,7 @@ repository               : ""
 author:
   # Biographic information
   # Add a headshot to images/ and set its filename here when available.
-  avatar           : "profile.png"
+  avatar           : "profile-compact.png"
   name             : "Shu-ao Jia (贾树傲)"
   pronouns         :
   bio              : "Undergraduate researcher in computer architecture, VLSI design, and design automation."
