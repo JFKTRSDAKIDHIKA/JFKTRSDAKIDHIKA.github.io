@@ -20,10 +20,12 @@ September 2023 – July 2027 (expected)
 - CET-4: 664 · CET-6: 566 -->
 
 
+
 ## Publications
 
-- **Shuao Jia**, Xiping Yu, Zhe Zhou, Zhao Wang, Yiqi Liu, Guangyu Sun. Tri-Stack-PIM: A Heterogeneous Multi-Die 3D-Integrated Processing-in-Memory Architecture for Efficient LLM Inference, accepted to **ICCAD 2026**.
-- **Shuao Jia**, Xiping Yu, Zhe Zhou, Zhao Wang, Yiqi Liu, Guangyu Sun. FADiff: Fusion-Aware Differentiable Optimization for DNN Scheduling on Tensor Accelerators, accepted to **ASP-DAC 2026**.
+- **Shuao Jia** et al. Tri-Stack-PIM: A Heterogeneous Multi-Die 3D-Integrated Processing-in-Memory Architecture for Efficient LLM Inference, accepted to **ICCAD 2026**.
+- **Shuao Jia** et al. FADiff: Fusion-Aware Differentiable Optimization for DNN Scheduling on Tensor Accelerators, accepted to **ASP-DAC 2026**.
+
 
 
 ## Selected Projects
