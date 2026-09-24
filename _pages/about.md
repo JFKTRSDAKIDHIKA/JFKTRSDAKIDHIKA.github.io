@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Shuao Jia is currently a fourth-year undergraduate student in Communication Engineering at the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (BUPT). His research interests include computer architecture, VLSI and circuit design, and design automation. He has published two first-author papers at top EDA conferences (ICCAD and ASP-DAC).
+Shuao Jia is currently a fourth-year undergraduate student in Communication Engineering at the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (BUPT). His research interests include computer architecture, VLSI and circuit design, and electronic design automation (EDA). He has published two first-author papers at leading EDA conferences, including ICCAD and ASP-DAC. He will join the Shanghai Institute of Semiconductor Innovation (SISI) as a doctoral student in Fall 2027, where he will work on compelling challenges across the computing stack, spanning algorithms, systems, architecture, circuits, EDA, devices, and materials.
+
 
 
 ## Education
