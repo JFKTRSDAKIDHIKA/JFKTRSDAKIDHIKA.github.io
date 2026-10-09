@@ -24,9 +24,9 @@ September 2023 – July 2027 (expected)
 
 ## Publications
 
-- **Shuao Jia** et al. Tri-Stack-PIM: A Heterogeneous Multi-Die 3D-Integrated Processing-in-Memory Architecture for Efficient LLM Inference, accepted to **ICCAD 2026**.
-- **Shuao Jia** et al. FADiff: Fusion-Aware Differentiable Optimization for DNN Scheduling on Tensor Accelerators, accepted to **ASP-DAC 2026**.
+- **Shuao Jia**, Zichao Ling, Chen Bai, Jianwang Zhai, Kang Zhao, “Tri-Stack-PIM: A Heterogeneous Multi-Die 3D-Integrated Processing-in-Memory Architecture for Efficient LLM Inference,” IEEE/ACM International Conference on Computer-Aided Design (**ICCAD**), San Jose, CA, USA, Nov. 8–12, 2026.
 
+- **Shuao Jia**, Zichao Ling, Chen Bai, Bei Yu, Kang Zhao, Jianwang Zhai, “FADiff: Fusion-Aware Differentiable Optimization for DNN Scheduling on Tensor Accelerators,” IEEE/ACM Asia and South Pacific Design Automation Conference (**ASP-DAC**), Tokyo, Japan, Jan. 25–28, 2027.
 
 
 ## Selected Projects
